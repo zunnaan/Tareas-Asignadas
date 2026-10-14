@@ -1,0 +1,14 @@
+C:\Users\kevin\Downloads\NuevoGusanitoscsharp\bin\Debug\net10.0\NuevoGusanitoscsharp.exe
+C:\Users\kevin\Downloads\NuevoGusanitoscsharp\bin\Debug\net10.0\NuevoGusanitoscsharp.deps.json
+C:\Users\kevin\Downloads\NuevoGusanitoscsharp\bin\Debug\net10.0\NuevoGusanitoscsharp.runtimeconfig.json
+C:\Users\kevin\Downloads\NuevoGusanitoscsharp\bin\Debug\net10.0\NuevoGusanitoscsharp.dll
+C:\Users\kevin\Downloads\NuevoGusanitoscsharp\bin\Debug\net10.0\NuevoGusanitoscsharp.pdb
+C:\Users\kevin\Downloads\NuevoGusanitoscsharp\obj\Debug\net10.0\NuevoGusanitoscsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Downloads\NuevoGusanitoscsharp\obj\Debug\net10.0\NuevoGusanitoscsharp.AssemblyInfoInputs.cache
+C:\Users\kevin\Downloads\NuevoGusanitoscsharp\obj\Debug\net10.0\NuevoGusanitoscsharp.AssemblyInfo.cs
+C:\Users\kevin\Downloads\NuevoGusanitoscsharp\obj\Debug\net10.0\NuevoGusanitoscsharp.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\NuevoGusanitoscsharp\obj\Debug\net10.0\NuevoGusanitoscsharp.dll
+C:\Users\kevin\Downloads\NuevoGusanitoscsharp\obj\Debug\net10.0\refint\NuevoGusanitoscsharp.dll
+C:\Users\kevin\Downloads\NuevoGusanitoscsharp\obj\Debug\net10.0\NuevoGusanitoscsharp.pdb
+C:\Users\kevin\Downloads\NuevoGusanitoscsharp\obj\Debug\net10.0\NuevoGusanitoscsharp.genruntimeconfig.cache
+C:\Users\kevin\Downloads\NuevoGusanitoscsharp\obj\Debug\net10.0\ref\NuevoGusanitoscsharp.dll
